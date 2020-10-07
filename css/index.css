@@ -1,0 +1,56 @@
+body {
+  background-image: url(https://ssl.gstatic.com/ui/v1/icons/mail/themes/desk/bg2_1920x1200.jpg);
+}
+img {
+  width: 150px;
+  height: 100px;
+  vertical-align: 50%;
+}
+header, section {
+  color: white;
+  font-size: 30px;
+  border-bottom: 1px solid white;
+  margin: 30px 5% 0;
+}
+#primaparte {
+  margin-top: 0;
+}
+#nome {
+  vertical-align: 150%;
+}
+#testo {
+  margin: 20px 0;
+}
+#numero {
+  background: orange;
+  border-radius: 50%;
+  padding: 10px;
+}
+#secondaparte{
+  margin-top: 10px;
+  padding-bottom: 10px;
+}
+.email {
+  color: black;
+  font-size: 20px;
+  border: 2px solid black;
+  background: silver;
+}
+.testo2 {
+  color: grey;
+}
+.bianca {
+  background: white;
+}
+footer {
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  margin-top: 10px;
+  font-style: italic;
+}
+#testo3 {
+  font-size: 30px;
+  font-style: normal;
+  margin-right: 3px;
+}
